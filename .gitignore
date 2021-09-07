@@ -1,3 +1,5 @@
 *.nupkg
 *.pdb
 packages/
+*.dll
+*.onnx

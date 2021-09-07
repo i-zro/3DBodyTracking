@@ -17,7 +17,6 @@ C:\Users\kny84\Desktop\3DBodyTracking\basicWithCsharp\Kinectv1\Kinectv1\bin\x64\
 C:\Users\kny84\Desktop\3DBodyTracking\basicWithCsharp\Kinectv1\Kinectv1\bin\x64\Debug\System.Memory.xml
 C:\Users\kny84\Desktop\3DBodyTracking\basicWithCsharp\Kinectv1\Kinectv1\bin\x64\Debug\System.Numerics.Vectors.xml
 C:\Users\kny84\Desktop\3DBodyTracking\basicWithCsharp\Kinectv1\Kinectv1\bin\x64\Debug\System.Runtime.CompilerServices.Unsafe.xml
-C:\Users\kny84\Desktop\3DBodyTracking\basicWithCsharp\Kinectv1\Kinectv1\obj\x64\Debug\Kinectv1.csproj.AssemblyReference.cache
 C:\Users\kny84\Desktop\3DBodyTracking\basicWithCsharp\Kinectv1\Kinectv1\obj\x64\Debug\Kinectv1.Form1.resources
 C:\Users\kny84\Desktop\3DBodyTracking\basicWithCsharp\Kinectv1\Kinectv1\obj\x64\Debug\Kinectv1.Properties.Resources.resources
 C:\Users\kny84\Desktop\3DBodyTracking\basicWithCsharp\Kinectv1\Kinectv1\obj\x64\Debug\Kinectv1.csproj.GenerateResource.cache
@@ -25,3 +24,4 @@ C:\Users\kny84\Desktop\3DBodyTracking\basicWithCsharp\Kinectv1\Kinectv1\obj\x64\
 C:\Users\kny84\Desktop\3DBodyTracking\basicWithCsharp\Kinectv1\Kinectv1\obj\x64\Debug\Kinectv1.csproj.CopyComplete
 C:\Users\kny84\Desktop\3DBodyTracking\basicWithCsharp\Kinectv1\Kinectv1\obj\x64\Debug\Kinectv1.exe
 C:\Users\kny84\Desktop\3DBodyTracking\basicWithCsharp\Kinectv1\Kinectv1\obj\x64\Debug\Kinectv1.pdb
+C:\Users\kny84\Desktop\3DBodyTracking\basicWithCsharp\Kinectv1\Kinectv1\obj\x64\Debug\Kinectv1.csproj.AssemblyReference.cache
