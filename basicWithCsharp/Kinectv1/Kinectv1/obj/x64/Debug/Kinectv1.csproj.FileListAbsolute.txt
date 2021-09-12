@@ -25,3 +25,4 @@ C:\Users\kny84\Desktop\3DBodyTracking\basicWithCsharp\Kinectv1\Kinectv1\obj\x64\
 C:\Users\kny84\Desktop\3DBodyTracking\basicWithCsharp\Kinectv1\Kinectv1\obj\x64\Debug\Kinectv1.exe
 C:\Users\kny84\Desktop\3DBodyTracking\basicWithCsharp\Kinectv1\Kinectv1\obj\x64\Debug\Kinectv1.pdb
 C:\Users\kny84\Desktop\3DBodyTracking\basicWithCsharp\Kinectv1\Kinectv1\obj\x64\Debug\Kinectv1.csproj.AssemblyReference.cache
+C:\Users\kny84\Desktop\3DBodyTracking\basicWithCsharp\Kinectv1\Kinectv1\obj\x64\Debug\Csharp_3d_viewer.BodyColors.resources
