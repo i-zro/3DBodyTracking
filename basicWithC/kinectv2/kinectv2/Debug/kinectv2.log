@@ -1,0 +1,9 @@
+﻿  kinect_01.cpp
+kinect_01.obj : error LNK2019: _k4abt_tracker_create_main 함수에서 참조되는 확인할 수 없는 외부 기호
+kinect_01.obj : error LNK2019: _k4abt_tracker_destroy_main 함수에서 참조되는 확인할 수 없는 외부 기호
+kinect_01.obj : error LNK2019: _k4abt_tracker_enqueue_capture_main 함수에서 참조되는 확인할 수 없는 외부 기호
+kinect_01.obj : error LNK2019: _k4abt_tracker_pop_result_main 함수에서 참조되는 확인할 수 없는 외부 기호
+kinect_01.obj : error LNK2019: _k4abt_tracker_shutdown_main 함수에서 참조되는 확인할 수 없는 외부 기호
+kinect_01.obj : error LNK2019: _k4abt_frame_release_main 함수에서 참조되는 확인할 수 없는 외부 기호
+kinect_01.obj : error LNK2019: _k4abt_frame_get_num_bodies_main 함수에서 참조되는 확인할 수 없는 외부 기호
+C:\Users\kny84\Desktop\3DBodyTracking\basicWithC\kinectv2\Debug\kinectv2.exe : fatal error LNK1120: 7개의 확인할 수 없는 외부 참조입니다.

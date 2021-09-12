@@ -1,0 +1,24 @@
+﻿  kinect_01.cpp
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\include\stdint.h(18,1): error C2144: 구문 오류: signed char'은(는) ';' 다음에 와야 합니다.
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\include\stdint.h(18,28): error C4430: 형식 지정자가 없습니다. int로 가정합니다. 참고: C++에서는 기본 int를 지원하지 않습니다.
+C:\Users\kny84\Desktop\3DBodyTracking\basicWithC\kinectv2\kinectv2\kinect_01.cpp(15,1): error C2143: 구문 오류: ';'이(가) 'if' 앞에 없습니다.
+C:\Users\kny84\Desktop\3DBodyTracking\basicWithC\kinectv2\kinectv2\kinect_01.cpp(15,1): error C4430: 형식 지정자가 없습니다. int로 가정합니다. 참고: C++에서는 기본 int를 지원하지 않습니다.
+C:\Users\kny84\Desktop\3DBodyTracking\basicWithC\kinectv2\kinectv2\kinect_01.cpp(11,1): error C2086: 'int ​': 재정의
+C:\Users\kny84\Desktop\3DBodyTracking\basicWithC\kinectv2\kinectv2\kinect_01.cpp(5): message : '​' 선언을 참조하십시오.
+C:\Users\kny84\Desktop\3DBodyTracking\basicWithC\kinectv2\kinectv2\kinect_01.cpp(17,1): error C2143: 구문 오류: ';'이(가) '{' 앞에 없습니다.
+C:\Users\kny84\Desktop\3DBodyTracking\basicWithC\kinectv2\kinectv2\kinect_01.cpp(17,1): error C2447: '{': 함수 헤더가 없습니다. 이전 스타일의 형식 목록입니까?
+C:\Users\kny84\Desktop\3DBodyTracking\basicWithC\kinectv2\kinectv2\kinect_01.cpp(27,1): error C2144: 구문 오류: int'은(는) ';' 다음에 와야 합니다.
+C:\Users\kny84\Desktop\3DBodyTracking\basicWithC\kinectv2\kinectv2\kinect_01.cpp(27,5): error C4430: 형식 지정자가 없습니다. int로 가정합니다. 참고: C++에서는 기본 int를 지원하지 않습니다.
+C:\Users\kny84\Desktop\3DBodyTracking\basicWithC\kinectv2\kinectv2\kinect_01.cpp(25,1): error C2086: 'int ​': 재정의
+C:\Users\kny84\Desktop\3DBodyTracking\basicWithC\kinectv2\kinectv2\kinect_01.cpp(5): message : '​' 선언을 참조하십시오.
+C:\Users\kny84\Desktop\3DBodyTracking\basicWithC\kinectv2\kinectv2\kinect_01.cpp(39,3): error C2146: 구문 오류: ';'이(가) 'k4a_device_configuration_t' 식별자 앞에 없습니다.
+C:\Users\kny84\Desktop\3DBodyTracking\basicWithC\kinectv2\kinectv2\kinect_01.cpp(49,3): error C2146: 구문 오류: ';'이(가) 'k4a_calibration_t' 식별자 앞에 없습니다.
+C:\Users\kny84\Desktop\3DBodyTracking\basicWithC\kinectv2\kinectv2\kinect_01.cpp(57,3): error C2146: 구문 오류: ';'이(가) 'k4abt_tracker_t' 식별자 앞에 없습니다.
+C:\Users\kny84\Desktop\3DBodyTracking\basicWithC\kinectv2\kinectv2\kinect_01.cpp(65,3): error C2144: 구문 오류: int'은(는) ';' 다음에 와야 합니다.
+C:\Users\kny84\Desktop\3DBodyTracking\basicWithC\kinectv2\kinectv2\kinect_01.cpp(109,5): error C2146: 구문 오류: ';'이(가) 'k4abt_frame_t' 식별자 앞에 없습니다.
+C:\Users\kny84\Desktop\3DBodyTracking\basicWithC\kinectv2\kinectv2\kinect_01.cpp(121,6): error C2146: 구문 오류: ';'이(가) 'size_t' 식별자 앞에 없습니다.
+C:\Users\kny84\Desktop\3DBodyTracking\basicWithC\kinectv2\kinectv2\kinect_01.cpp(127,6): error C2146: 구문 오류: ';'이(가) 'k4abt_frame_release' 식별자 앞에 없습니다.
+C:\Users\kny84\Desktop\3DBodyTracking\basicWithC\kinectv2\kinectv2\kinect_01.cpp(179,2): error C2143: 구문 오류: ';'이(가) '}' 앞에 없습니다.
+C:\Users\kny84\Desktop\3DBodyTracking\basicWithC\kinectv2\kinectv2\kinect_01.cpp(183,4): error C2146: 구문 오류: ';'이(가) 'printf' 식별자 앞에 없습니다.
+C:\Users\kny84\Desktop\3DBodyTracking\basicWithC\kinectv2\kinectv2\kinect_01.cpp(187,4): error C2146: 구문 오류: ';'이(가) 'k4abt_tracker_shutdown' 식별자 앞에 없습니다.
+C:\Users\kny84\Desktop\3DBodyTracking\basicWithC\kinectv2\kinectv2\kinect_01.cpp(197,4): error C2143: 구문 오류: ';'이(가) 'return' 앞에 없습니다.

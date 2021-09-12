@@ -6,3 +6,4 @@ packages/
 *.db
 basicWithC/kinectv2/.vs/kinectv2/v16/ipch/AutoPCH/e2ddcdb2923afd9d/KINECT_01.ipch
 *.ipch
+basicWithC/ckinectv1/.vs/ckinectv1/v16/Browse.VC.opendb

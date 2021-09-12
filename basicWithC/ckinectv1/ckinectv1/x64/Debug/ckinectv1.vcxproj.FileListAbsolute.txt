@@ -1,0 +1,2 @@
+C:\Users\kny84\Desktop\3DBodyTracking\basicWithC\ckinectv1\x64\Debug\dnn_model_2_0.onnx
+C:\Users\kny84\Desktop\3DBodyTracking\basicWithC\ckinectv1\ckinectv1\x64\Debug\ckinectv1.vcxproj.CopyComplete

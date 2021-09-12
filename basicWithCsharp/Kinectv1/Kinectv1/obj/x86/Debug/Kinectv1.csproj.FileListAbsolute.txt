@@ -1,0 +1,5 @@
+C:\Users\kny84\Desktop\3DBodyTracking\basicWithCsharp\Kinectv1\Kinectv1\obj\x86\Debug\Kinectv1.csproj.AssemblyReference.cache
+C:\Users\kny84\Desktop\3DBodyTracking\basicWithCsharp\Kinectv1\Kinectv1\obj\x86\Debug\Kinectv1.Form1.resources
+C:\Users\kny84\Desktop\3DBodyTracking\basicWithCsharp\Kinectv1\Kinectv1\obj\x86\Debug\Kinectv1.Properties.Resources.resources
+C:\Users\kny84\Desktop\3DBodyTracking\basicWithCsharp\Kinectv1\Kinectv1\obj\x86\Debug\Kinectv1.csproj.GenerateResource.cache
+C:\Users\kny84\Desktop\3DBodyTracking\basicWithCsharp\Kinectv1\Kinectv1\obj\x86\Debug\Kinectv1.csproj.CoreCompileInputs.cache

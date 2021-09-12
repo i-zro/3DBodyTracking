@@ -1,0 +1,2 @@
+C:\Users\kny84\Desktop\3DBodyTracking\basicWithC\kinectv2\Debug\dnn_model_2_0.onnx
+C:\Users\kny84\Desktop\3DBodyTracking\basicWithC\kinectv2\kinectv2\Debug\kinectv2.vcxproj.CopyComplete
